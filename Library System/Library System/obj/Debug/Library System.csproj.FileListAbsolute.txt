@@ -1,0 +1,25 @@
+C:\Documents and Settings\it340a20\My Documents\Visual Studio 2008\Projects\Library System\Library System\bin\Debug\Library System.exe
+C:\Documents and Settings\it340a20\My Documents\Visual Studio 2008\Projects\Library System\Library System\bin\Debug\Library System.pdb
+C:\Documents and Settings\it340a20\My Documents\Visual Studio 2008\Projects\Library System\Library System\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\it340a20\My Documents\Visual Studio 2008\Projects\Library System\Library System\obj\Debug\Library_System.Properties.Resources.resources
+C:\Documents and Settings\it340a20\My Documents\Visual Studio 2008\Projects\Library System\Library System\obj\Debug\Library System.csproj.GenerateResource.Cache
+C:\Documents and Settings\it340a20\My Documents\Visual Studio 2008\Projects\Library System\Library System\obj\Debug\Library System.exe
+C:\Documents and Settings\it340a20\My Documents\Visual Studio 2008\Projects\Library System\Library System\obj\Debug\Library System.pdb
+C:\Documents and Settings\it340a20\My Documents\Visual Studio 2008\Projects\Library System\Library System\obj\Debug\Library_System.Book.resources
+C:\Documents and Settings\it340a20\My Documents\Visual Studio 2008\Projects\Library System\Library System\obj\Debug\Library_System.Borrower.resources
+C:\Documents and Settings\it340a20\My Documents\Visual Studio 2008\Projects\Library System\Library System\obj\Debug\Library_System.Login.resources
+C:\Documents and Settings\it340a20\My Documents\Visual Studio 2008\Projects\Library System\Library System\obj\Debug\Library_System.MainPage.resources
+C:\Users\James\Documents\Visual Studio 2008\Projects\Library System\Library System\obj\Debug\Library System.exe
+C:\Users\James\Documents\Visual Studio 2008\Projects\Library System\Library System\obj\Debug\Library System.pdb
+C:\Users\James\Documents\Visual Studio 2008\Projects\Library System\Library System\bin\Debug\Library System.exe
+C:\Users\James\Documents\Visual Studio 2008\Projects\Library System\Library System\bin\Debug\Library System.pdb
+C:\Users\James\Documents\Visual Studio 2008\Projects\Library System\Library System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio 2008\Projects\Library System\Library System\obj\Debug\Library_System.Book.resources
+C:\Users\James\Documents\Visual Studio 2008\Projects\Library System\Library System\obj\Debug\Library_System.Login.resources
+C:\Users\James\Documents\Visual Studio 2008\Projects\Library System\Library System\obj\Debug\Library_System.MainPage.resources
+C:\Users\James\Documents\Visual Studio 2008\Projects\Library System\Library System\obj\Debug\Library_System.Properties.Resources.resources
+C:\Users\James\Documents\Visual Studio 2008\Projects\Library System\Library System\obj\Debug\Library System.csproj.GenerateResource.Cache
+C:\Users\James\Documents\Visual Studio 2008\Projects\Library System\Library System\obj\Debug\Library_System.AddBarrower.resources
+C:\Users\James\Documents\Visual Studio 2008\Projects\Library System\Library System\obj\Debug\Library_System.UpDel.resources
+C:\Users\James\Documents\Visual Studio 2008\Projects\Library System\Library System\obj\Debug\Library_System.Borrow.resources
+C:\Users\James\Documents\Visual Studio 2008\Projects\Library System\Library System\obj\Debug\Library_System.Return.resources
